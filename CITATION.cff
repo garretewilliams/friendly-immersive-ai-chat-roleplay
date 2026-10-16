@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it using the metadata below."
+title: "What Makes Friendly AI Chat Roleplay Immersive? 8 Elements That Make AI Characters Feel Alive"
+abstract: >-
+  An essay by the founder of ChatBrat AI proposing eight elements that make
+  friendly, SFW AI character chat and roleplay feel immersive: personality,
+  relationship progression, character consistency, memory, relationship
+  history, scenarios and story, user agency, and voice, humor and mannerisms.
+  Each element is defined with an example, and the essay argues that AI
+  companionship should extend beyond romantic chemistry to friendship, humor,
+  listening and long-term continuity. It is an opinion and design essay, not an
+  empirical study, and makes no product-performance claims.
+type: dataset
+authors:
+  - family-names: "Williams"
+    given-names: "Garret E."
+    affiliation: "ChatBrat AI"
+version: "1.0.0"
+date-released: "2026-10-15"
+license: CC-BY-4.0
+repository-code: "https://github.com/garretewilliams/friendly-immersive-ai-chat-roleplay"
+url: "https://chatbrat.ai/"
+keywords:
+  - friendly AI
+  - AI roleplay
+  - AI chat
+  - AI characters
+  - AI companions
+  - immersive roleplay
+  - character design
+  - interactive fiction
