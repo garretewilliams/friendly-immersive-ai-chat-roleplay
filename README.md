@@ -67,3 +67,7 @@ Because the most immersive AI roleplay isn't about the most shocking conversatio
 💬 **Try it:** [ChatBrat.ai](https://chatbrat.ai), free, friendly AI character chat and roleplay with persistent memory. No login required.
 
 Written by Garret E. Williams, founder of [ChatBrat.ai](https://chatbrat.ai). **More:** [Full article on Medium](https://medium.com/@chatbrat.ai/what-makes-ai-chat-roleplay-immersive-8-elements-that-make-ai-characters-feel-alive-a7c8e8d96ffe) · [Long-term memory for AI characters](https://github.com/garretewilliams/ai-character-long-term-memory) · [Substack](https://garretewilliams.substack.com) · [Bratlog](https://chatbrat.ai/bratlog)
+
+## Readable PDF and archived versions
+
+A [PDF companion](23411100-documentation.pdf) is available for the archived v1.0.0 documentation. See [archive and version notes](ZENODO.md) and the [published Zenodo version](https://zenodo.org/records/23555481). This documentation update adds no benchmark results or new software-release claim.
